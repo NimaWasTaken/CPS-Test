@@ -1,2 +1,2 @@
 # CPS-Test
-A simple cps (Clicks per second).
+A simple cps (Clicks per second) test.
